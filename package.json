@@ -1,0 +1,84 @@
+{
+  "_args": [
+    [
+      "eslint-config-jordanmonier@2.0.2",
+      "C:\\Users\\Jordan\\Desktop\\Travail\\EXYPE\\Repositories\\react-backoffice"
+    ]
+  ],
+  "_development": true,
+  "_from": "eslint-config-jordanmonier@2.0.2",
+  "_id": "eslint-config-jordanmonier@2.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-gIY9QeedpwGhGmyuNEtmk5WZzpRwFKUf8qNexW7d1gkNuf1X42yvBF/vNIWChEE5wTHKpBmRdE8/3fkpw67kXw==",
+  "_location": "/eslint-config-jordanmonier",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "eslint-config-jordanmonier@2.0.2",
+    "name": "eslint-config-jordanmonier",
+    "escapedName": "eslint-config-jordanmonier",
+    "rawSpec": "2.0.2",
+    "saveSpec": null,
+    "fetchSpec": "2.0.2"
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "https://registry.npmjs.org/eslint-config-jordanmonier/-/eslint-config-jordanmonier-2.0.2.tgz",
+  "_spec": "2.0.2",
+  "_where": "C:\\Users\\Jordan\\Desktop\\Travail\\EXYPE\\Repositories\\react-backoffice",
+  "author": {
+    "name": "Jordan Monier"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.6.0",
+    "@typescript-eslint/parser": "^4.6.0",
+    "eslint": "^7.12.1",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-config-airbnb-typescript": "^12.0.0",
+    "eslint-config-prettier": "^6.15.0",
+    "eslint-config-react-app": "^6.0.0",
+    "eslint-import-resolver-typescript": "^2.3.0",
+    "eslint-plugin-flowtype": "^5.2.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jest": "^24.1.0",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-react": "^7.21.5",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "eslint-plugin-unicorn": "^23.0.0",
+    "prettier": "^2.1.2",
+    "typescript": "^4.0.5"
+  },
+  "description": "My ESLint configuration",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "eslint-config-jordanmonier",
+  "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.6.0",
+    "@typescript-eslint/parser": "^4.6.0",
+    "eslint": "^7.12.1",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-config-airbnb-typescript": "^12.0.0",
+    "eslint-config-prettier": "^6.15.0",
+    "eslint-config-react-app": "^6.0.0",
+    "eslint-import-resolver-typescript": "^2.3.0",
+    "eslint-plugin-flowtype": "^5.2.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jest": "^24.1.0",
+    "eslint-plugin-jsx-a11y": "^6.4.1",
+    "eslint-plugin-prettier": "^3.1.4",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-react": "^7.21.5",
+    "eslint-plugin-react-hooks": "^4.2.0",
+    "eslint-plugin-unicorn": "^23.0.0",
+    "prettier": "^2.1.2",
+    "typescript": "^4.0.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.0.2"
+}
