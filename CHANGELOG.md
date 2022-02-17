@@ -1,3 +1,14 @@
+## [5.0.0](https://github.com/jordanmonier/eslint-config-jordanmonier/compare/4.0.1...5.0.0) (2022-02-17)
+
+
+### ⚠ BREAKING CHANGES
+
+* updated every packages
+
+### Features
+
+* updated every packages ([8e40d49](https://github.com/jordanmonier/eslint-config-jordanmonier/commit/8e40d49db23e6de6f9ab6651e2e24911f6891338))
+
 ### [4.0.1](https://github.com/jordanmonier/eslint-config-jordanmonier/compare/4.0.0...4.0.1) (2021-09-10)
 
 
