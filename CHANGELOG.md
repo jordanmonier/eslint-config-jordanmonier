@@ -1,3 +1,10 @@
+### [5.0.1](https://github.com/jordanmonier/eslint-config-jordanmonier/compare/5.0.0...5.0.1) (2022-02-17)
+
+
+### Bug Fixes
+
+* changed jest config ([025674a](https://github.com/jordanmonier/eslint-config-jordanmonier/commit/025674a2a46e42cf5ac4a80fb85405153e6bef4f))
+
 ## [5.0.0](https://github.com/jordanmonier/eslint-config-jordanmonier/compare/4.0.1...5.0.0) (2022-02-17)
 
 
