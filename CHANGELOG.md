@@ -1,3 +1,10 @@
+### [5.0.2](https://github.com/jordanmonier/eslint-config-jordanmonier/compare/5.0.1...5.0.2) (2022-02-17)
+
+
+### Bug Fixes
+
+* disable npm publish ([9b12020](https://github.com/jordanmonier/eslint-config-jordanmonier/commit/9b120200e189c912bf23efc9b572ea32014e000b))
+
 ### [5.0.1](https://github.com/jordanmonier/eslint-config-jordanmonier/compare/5.0.0...5.0.1) (2022-02-17)
 
 
