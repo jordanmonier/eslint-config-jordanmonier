@@ -1,3 +1,10 @@
+### [5.0.3](https://github.com/jordanmonier/eslint-config-jordanmonier/compare/5.0.2...5.0.3) (2022-04-27)
+
+
+### Bug Fixes
+
+* removed jest from plugins ([9c48426](https://github.com/jordanmonier/eslint-config-jordanmonier/commit/9c484264f34b03de63608982d172672d3c741906))
+
 ### [5.0.2](https://github.com/jordanmonier/eslint-config-jordanmonier/compare/5.0.1...5.0.2) (2022-02-17)
 
 
