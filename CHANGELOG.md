@@ -1,3 +1,12 @@
+
+
+## [5.1.0](https://github.com/jordanmonier/eslint-config-jordanmonier/compare/5.0.3...5.1.0) (2022-09-01)
+
+
+### Features
+
+* updated packages ([b21b5d3](https://github.com/jordanmonier/eslint-config-jordanmonier/commit/b21b5d3b182393eab9f18814c1d9d75e6009f1af))
+
 ### [5.0.3](https://github.com/jordanmonier/eslint-config-jordanmonier/compare/5.0.2...5.0.3) (2022-04-27)
 
 
@@ -48,4 +57,3 @@
 ### Bug Fixes
 
 * removed pre-commit commands ([40912ea](https://github.com/jordanmonier/eslint-config-jordanmonier/commit/40912ea7270c04daac80e303d4ea8ba8ec97f35a))
-
